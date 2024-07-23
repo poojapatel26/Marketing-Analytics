@@ -34,31 +34,31 @@ The main objective of this project is to  analyze campaign performance for the l
 
 ## Summary of insights :
 
-* Campaign performance : The overall performance analysis of the paid search campaign conducted for the US shopping mall reveals a combination of positive achievements and challenges. The campaign succeeded in achieving a conversion rate of 11.26%, indicating a noteworthy proportion of engagements translating into actual customer actions. However, the financial aspect paints a challenging picture, with a profit loss of -$73,412 indicating that the campaign’s costs exceeded its generated revenue.
+* **Campaign performance :** The overall performance analysis of the paid search campaign conducted for the US shopping mall reveals a combination of positive achievements and challenges. The campaign succeeded in achieving a conversion rate of 11.26%, indicating a noteworthy proportion of engagements translating into actual customer actions. However, the financial aspect paints a challenging picture, with a profit loss of -$73,412 indicating that the campaign’s costs exceeded its generated revenue.
 
   The campaign’s Average Cost Per Click (CPC) stood at a competitive rate of $0.78, reflecting effective cost management strategies. The Click Through Rate (CTR) of 27.19% indicates a good engagement level with the ads, showcasing users’ interactions and interest. Nevertheless, the Return on Investment (ROI) of -11.55% is of concern, signifying a significant financial deficit.
 
-* Conversion Rates based on Ad-group and keywords : This analysis can be connected to the context of 2021 in US, which includes factors such as the pandemic, economic conditions, and societal dynamics.
+* **Conversion Rates based on Ad-group and keywords :** This analysis can be connected to the context of 2021 in US, which includes factors such as the pandemic, economic conditions, and societal dynamics.
 
   In particular, keywords like “Black Friday / Cyber Monday”, “Promo” and “Offer” show higher conversion rates. Leveraging these keywords strategically in campaigns can cater to consumer preferences during peak shopping events while optimizing cost-effective measures for maximal returns.
 
   Taking match types into account, a “1:1” match indicates a strong conversion rate, potentially indicating targeted advertising. This is in line with the goal of maximizing conversions, as targeted ads have a higher probability of driving user action, thereby optimizing cost efficiency.
   
-* Profitable Month : While October surprisingly achieved the highest profit of $1,046, other months, notably July, August, September, and November, experienced losses.
+* **Profitable Month :** While October surprisingly achieved the highest profit of $1,046, other months, notably July, August, September, and November, experienced losses.
 
   October’s profitable month could signify a successful implementation of targeted campaigns or effective resource allocation. It raises questions about the strategies deployed during that period and how they could be extrapolated to enhance other months’ performances.
 
-* ROI : The Return on Investment (ROI) of -11.55% is a significant concern, indicating a substantial financial deficit. It’s essential to focus on strategies that improve ROI, balancing costs and revenue more effectively.
+* **ROI :** The Return on Investment (ROI) of -11.55% is a significant concern, indicating a substantial financial deficit. It’s essential to focus on strategies that improve ROI, balancing costs and revenue more effectively.
 
-* Cost : Keywords like “Black Friday / Cyber Monday” boast the lowest CPC at $0.15, which can be attributed to their specific relevance during seasonal sales. The “Free Shipping” keyword also exhibits an impressively low CPC of $0.34, indicating cost-efficiency in this category.
+* **Cost:** Keywords like “Black Friday / Cyber Monday” boast the lowest CPC at $0.15, which can be attributed to their specific relevance during seasonal sales. The “Free Shipping” keyword also exhibits an impressively low CPC of $0.34, indicating cost-efficiency in this category.
 
-When considering match types, “Phrase” performs well with a CPC of $0.70, followed by “Exact” at $0.76. Meanwhile, “1:1” has a slightly higher CPC at $0.93.
+  When considering match types, “Phrase” performs well with a CPC of $0.70, followed by “Exact” at $0.76. Meanwhile, “1:1” has a slightly higher CPC at $0.93.
 
-Looking at devices, mobile campaigns have a notably lower CPC of $0.51 compared to desktop campaigns with a CPC of $1.07.
+  Looking at devices, mobile campaigns have a notably lower CPC of $0.51 compared to desktop campaigns with a CPC of $1.07.
 
-It’s essential to note that the “Black Friday / Cyber Monday” keyword, introduced in November, is performing exceptionally well in terms of cost efficiency, showcasing the potential for optimization in future campaigns.
+  It’s essential to note that the “Black Friday / Cyber Monday” keyword, introduced in November, is performing exceptionally well in terms of cost efficiency, showcasing the potential for optimization in future campaigns.
 
-* Click-Through Rate (CTR) : In analyzing the Click-Through Rate (CTR) performance across ad groups and keywords, it becomes evident that some areas may require adjustments to achieve a better CTR. Notably, the “Black Friday / Cyber Monday” and “Sale” keyword stands out with a lower CTR of 8.30% and 9.83%, suggesting that users may not be responding as expected to these ad groups. It’s crucial to review the messaging and targeting strategies for the ad groups to enhance its CTR.
+* **Click-Through Rate (CTR) :** In analyzing the Click-Through Rate (CTR) performance across ad groups and keywords, it becomes evident that some areas may require adjustments to achieve a better CTR. Notably, the “Black Friday / Cyber Monday” and “Sale” keyword stands out with a lower CTR of 8.30% and 9.83%, suggesting that users may not be responding as expected to these ad groups. It’s crucial to review the messaging and targeting strategies for the ad groups to enhance its CTR.
 
   Match Type, the “1:1” match type has the highest CTR at 38.68%, indicating that this match type resonates well with users. It might be worthwhile to consider expanding the use of the “1:1” match type to other ad groups or keywords to potentially improve their CTR.
   
