@@ -34,9 +34,9 @@ The main objective of this project is to  analyze campaign performance for the l
 
 ## Summary of insights :
 
-* **Campaign performance :** The overall performance analysis of the paid search campaign conducted for the US shopping mall reveals a combination of positive achievements and challenges. The campaign succeeded in achieving a conversion rate of 11.26%, indicating a noteworthy proportion of engagements translating into actual customer actions. However, the financial aspect paints a challenging picture, with a profit loss of -$73,412 indicating that the campaign’s costs exceeded its generated revenue.
+* **Campaign performance :** The overall performance analysis of the paid search campaign conducted for the US shopping mall reveals a combination of positive achievements and challenges. The campaign succeeded in achieving a conversion rate of 7.97%, indicating a noteworthy proportion of engagements translating into actual customer actions. However, the financial aspect paints a challenging picture, with a profit loss of -$73,409 indicating that the campaign’s costs exceeded its generated revenue.
 
-  The campaign’s Average Cost Per Click (CPC) stood at a competitive rate of $0.78, reflecting effective cost management strategies. The Click Through Rate (CTR) of 27.19% indicates a good engagement level with the ads, showcasing users’ interactions and interest. Nevertheless, the Return on Investment (ROI) of -11.55% is of concern, signifying a significant financial deficit.
+  The campaign’s Average Cost Per Click (CPC) stood at a competitive rate of $0.79, reflecting effective cost management strategies. The Click Through Rate (CTR) of 27.21% indicates a good engagement level with the ads, showcasing users’ interactions and interest. Nevertheless, the Return on Investment (ROI) of -11.55% is of concern, signifying a significant financial deficit.
 
 * **Conversion Rates based on Ad-group and keywords :** This analysis can be connected to the context of 2021 in US, which includes factors such as the pandemic, economic conditions, and societal dynamics.
 
