@@ -34,8 +34,19 @@ The main objective of this project is to  analyze campaign performance for the l
 
 ## Summary of insights :
 
+* Campaign performance :
+  - 
 
+* Conversion Rates based on Ad-group and keywords :
 
+* Profitable Month :
+
+* Cost : 
+
+* Click-Through Rate (CTR) :
+  
 
 ## Recommendation and Next Steps : 
+
+
 
